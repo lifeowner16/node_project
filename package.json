@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-hello",
+  "version": "1.0.0",
+  "description": "Hello sample app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifeowner16/node_project.git"
+  },
+  "author": "roy ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lifeowner16/node_project/issues"
+  },
+  "homepage": "ttps://github.com/lifeowner16/node_project#readme"
+}
